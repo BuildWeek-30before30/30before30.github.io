@@ -17,6 +17,15 @@
   color: white;
 }
 
+.form-Border {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 30rem;
+  width: 75%;
+}
+
 .App-link {
   color: #09d3ac;
 }
