@@ -40,8 +40,8 @@ import styled from 'styled-components';
         }
     },
     validationSchema: yup.object().shape({
-        username:yup.string().required(),
-        password:yup.string().required(),
+        username: yup.string().required(),
+        password: yup.string().required(),
     }),
     handleSubmit: (values) => {
       console.log(values)
