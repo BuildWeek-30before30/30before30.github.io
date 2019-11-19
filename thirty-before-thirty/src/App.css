@@ -17,6 +17,7 @@
   color: white;
 }
 
+<<<<<<< HEAD
 .form-Border {
   display: flex;
   flex-direction: column;
@@ -26,6 +27,8 @@
   width: 75%;
 }
 
+=======
+>>>>>>> a6cde6067834cea3573e02446a54bd58fab17481
 .App-link {
   color: #09d3ac;
 }

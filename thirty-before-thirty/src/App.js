@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+<<<<<<< HEAD
 import LoginForm from './components/30before30LoginForm';
 
 
@@ -14,4 +15,11 @@ function App(props) {
   
 
 
+=======
+
+function App() {
+  return <div className="App">This is an app!</div>;
+}
+
+>>>>>>> a6cde6067834cea3573e02446a54bd58fab17481
 export default App;
