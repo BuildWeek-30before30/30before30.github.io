@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "axios": "^0.19.0",
     "formik": "^2.0.4",
     "react": "^16.11.0",
@@ -15,13 +16,25 @@
   "scripts": {
     "start": "Set Port= 3005 && react-scripts start",
 =======
+=======
+
+    "formik": "^2.0.4",
+
+>>>>>>> df180edc00ef7d3822b7746f53381a80b15c3c23
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
   },
   "scripts": {
+<<<<<<< HEAD
     "start": "react-scripts start",
 >>>>>>> a6cde6067834cea3573e02446a54bd58fab17481
+=======
+
+    "start": "Set Port= 3005 && react-scripts start",
+    "start": "react-scripts start",
+
+>>>>>>> df180edc00ef7d3822b7746f53381a80b15c3c23
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
